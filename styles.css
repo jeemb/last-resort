@@ -1,35 +1,37 @@
 h1 {
   color: #9c836a;
   text-align: center;
-
+  font-size: 200px;
 }
 
 h2 {
   text-align: center;
   color:#c5ac73;
+  font-size: 150px;
 }
 
 h3 {
   text-align: center;
-  color: green
+  color: green;
+  font-size: 10px;
 }
 
 body {
- background-color: #62bdf6;
-}
-
-h3 {
- text-align: center;
+ background-color: red;
 }
 
 img {
   padding-top: 30px;
   display: block;
-  margin-left: auto;
+  height: 100%;
+  width: 100%;
   margin-right: auto;
 }
 
 #fruit {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 50px;
   height: 50px;
 }
@@ -42,4 +44,8 @@ ul {
 }
 #accom {
   color: blue;
+}
+
+li {
+  text-align: center;
 }
