@@ -1,7 +1,6 @@
 h1 {
   color: #9c836a;
   text-align: center;
-
 }
 
 h2 {
@@ -16,8 +15,8 @@ h3 {
 
 body {
  background-color: #62bdf6;
+ background-image: url("http://www.w3schools.com/css/trolltunga.jpg");
 }
-
 
 img {
   padding-top: 30px;
@@ -31,12 +30,12 @@ img {
   height: 50px;
 }
 
-
 ul {
   text-align: right;
   text-decoration: overline;
   font-style: oblique;
 }
+
 #accom {
   color: blue;
 }
